@@ -1,0 +1,6 @@
+li {display: inline; margin-right: 40px;}
+a {text-decoration: none; color: aliceblue;}
+nav {background-color: rgb(209, 204, 204); line-height:50px; text-align: right}
+nav img {float: left; margin-top: 2px; height: 45px; width: 45px;}
+body {background-color: rgb(223, 209, 208); text-align: center}
+img {width: 150px; height: 150px;margin-right: 40px}
